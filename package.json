@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Backend Application",
   "license": "MIT",
-  "author": "Adrian Pietrzak <contact@pietrzakadrian.com>",
+  "author": "Victor Osha",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
